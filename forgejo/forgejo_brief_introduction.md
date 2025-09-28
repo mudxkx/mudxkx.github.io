@@ -1,5 +1,6 @@
 ---
 title: Forgejo简介
+layout: default
 ---
 
 # Forgejo简介

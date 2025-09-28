@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.defaultInterpreterPath": "/data/venvs/tech/bin/python",
+		"python.terminal.activateEnvironment": true,
+		"editor.suggest.showSnippets": true,
+		"pasteImage.path": "${currentFileDir}/images",
+		"typescript.updateImportsOnPaste.enabled": false,
+		// "terminal.integrated.persistentSessionReviveProcess": "never",
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	},
+
+	
+}
